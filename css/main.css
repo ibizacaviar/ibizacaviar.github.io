@@ -1768,7 +1768,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     left: 0;
     width: 100%;
     height: 100%;
-    opacity: .6;
+    opacity: .35;
     background-color: #000000;
 }
 
@@ -1973,7 +1973,7 @@ html.cl-preload .home-content__main {
 }
 
 html.cl-loaded .home-content__main {
-    animation-duration: 2s;
+    animation-duration: 3s;
     -webkit-animation-name: fadeIn;
     animation-name: fadeIn;
 }
