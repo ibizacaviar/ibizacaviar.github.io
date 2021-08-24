@@ -1973,7 +1973,8 @@ html.cl-preload .home-content__main {
 }
 
 html.cl-loaded .home-content__main {
-    animation-duration: 3s;
+    animation-duration: 4s;
+    animation-delay:1s;
     -webkit-animation-name: fadeIn;
     animation-name: fadeIn;
 }
